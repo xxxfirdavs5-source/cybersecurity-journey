@@ -1,1 +1,1 @@
-# cybersecurity-journey
+# Cybersecurity Journey - SOC & Pentest
