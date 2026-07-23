@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "6d5b20a7f44c1005",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b93674f53618ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b127fecb0bcdf8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_Notes"
+            }
+          },
+          {
+            "id": "9e672d19146c6e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "831abcf62f66cb8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed61dee2f2ce9b19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2a918e031d21e56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b65787201abb9bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c38e13d9754450d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "010fbeee02c8a54f",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc8e5315f8ea2bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb93a3a4f1e891cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git"
+            }
+          },
+          {
+            "id": "ccdb761a07be696a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Git"
+            }
+          },
+          {
+            "id": "5155b414cd254dd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f3459a0765e23320",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a2a918e031d21e56",
+  "lastOpenFiles": [
+    "GitBasics",
+    "Git.md",
+    "02_Notes.md",
+    "GitBasics.md",
+    "02_Notes/Git.md",
+    "02_Notes/Git_Basics.md.md",
+    "02_Notes/README.md",
+    "02_Notes",
+    "Git",
+    "02_notes.md",
+    "Git/02_Notes"
+  ]
+}
